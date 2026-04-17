@@ -15,11 +15,11 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: analytical technique
-    schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 4811938040
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 4671820041
   numberOfFiles: 1
   numberOfSubjects: 1
   schemaKey: AssetsSummary
@@ -28,10 +28,10 @@ assetsSummary:
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured:
-  - ImagingPlane
-  - ProcessingModule
-  - OpticalChannel
   - PlaneSegmentation
+  - ImagingPlane
+  - OpticalChannel
+  - ProcessingModule
 citation: Peene, Carter (2026) Predictive Processing Community - Mesoscope (Version
   draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001768/draft
 contributor:
