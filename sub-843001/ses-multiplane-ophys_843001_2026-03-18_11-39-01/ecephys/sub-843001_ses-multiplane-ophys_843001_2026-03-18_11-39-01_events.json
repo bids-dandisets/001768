@@ -1,0 +1,123 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "stim_name": {
+        "Description": "Description of stim_name"
+    },
+    "stim_type": {
+        "Description": "Description of stim_type"
+    },
+    "stim_block": {
+        "Description": "Description of stim_block"
+    },
+    "Orientation": {
+        "Description": "Description of Orientation"
+    },
+    "SpatialFrequency": {
+        "Description": "Description of SpatialFrequency"
+    },
+    "TemporalFrequency": {
+        "Description": "Description of TemporalFrequency"
+    },
+    "contrast": {
+        "Description": "Description of contrast"
+    },
+    "phase": {
+        "Description": "Description of phase"
+    },
+    "DiameterX": {
+        "Description": "Description of DiameterX"
+    },
+    "DiameterY": {
+        "Description": "Description of DiameterY"
+    },
+    "X": {
+        "Description": "Description of X"
+    },
+    "Y": {
+        "Description": "Description of Y"
+    },
+    "Duration": {
+        "Description": "Description of Duration"
+    },
+    "Delay": {
+        "Description": "Description of Delay"
+    },
+    "BlockNumber": {
+        "Description": "Description of BlockNumber"
+    },
+    "BlockLabel": {
+        "Description": "Description of BlockLabel"
+    },
+    "TrialNumber": {
+        "Description": "Description of TrialNumber"
+    },
+    "SequenceNumber": {
+        "Description": "Description of SequenceNumber"
+    },
+    "TrialInSequence": {
+        "Description": "Description of TrialInSequence"
+    },
+    "TrialType": {
+        "Description": "Description of TrialType"
+    },
+    "BlockType": {
+        "Description": "Description of BlockType"
+    },
+    "stim_index": {
+        "Description": "Description of stim_index"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "spontaneous_presentations": "The 'spontaneous_presentations' table in the NWB file.",
+            "Zebra_presentations": "The 'Zebra_presentations' table in the NWB file.",
+            "Sensory-motor mismatch block_presentations": "The 'Sensory-motor mismatch block_presentations' table in the NWB file.",
+            "RF mapping_presentations": "The 'RF mapping_presentations' table in the NWB file.",
+            "Control block 4_presentations": "The 'Control block 4_presentations' table in the NWB file.",
+            "Control block 3_presentations": "The 'Control block 3_presentations' table in the NWB file.",
+            "Control block 2_presentations": "The 'Control block 2_presentations' table in the NWB file.",
+            "Control block 1_presentations": "The 'Control block 1_presentations' table in the NWB file."
+        },
+        "HED": {
+            "spontaneous_presentations": "Time-interval",
+            "Zebra_presentations": "Time-interval",
+            "Sensory-motor mismatch block_presentations": "Time-interval",
+            "RF mapping_presentations": "Time-interval",
+            "Control block 4_presentations": "Time-interval",
+            "Control block 3_presentations": "Time-interval",
+            "Control block 2_presentations": "Time-interval",
+            "Control block 1_presentations": "Time-interval"
+        }
+    },
+    "spontaneous_presentations": {
+        "Description": "Presentation times and stimuli details for 'spontaneous' stimuli. \nNote: image_name references control_description in stimulus/templates"
+    },
+    "Zebra_presentations": {
+        "Description": "Presentation times and stimuli details for 'Zebra' stimuli. \nNote: image_name references control_description in stimulus/templates"
+    },
+    "Sensory-motor mismatch block_presentations": {
+        "Description": "Presentation times and stimuli details for 'Sensory-motor mismatch block' stimuli. \nNote: image_name references control_description in stimulus/templates"
+    },
+    "RF mapping_presentations": {
+        "Description": "Presentation times and stimuli details for 'RF mapping' stimuli. \nNote: image_name references control_description in stimulus/templates"
+    },
+    "Control block 4_presentations": {
+        "Description": "Presentation times and stimuli details for 'Control block 4' stimuli. \nNote: image_name references control_description in stimulus/templates"
+    },
+    "Control block 3_presentations": {
+        "Description": "Presentation times and stimuli details for 'Control block 3' stimuli. \nNote: image_name references control_description in stimulus/templates"
+    },
+    "Control block 2_presentations": {
+        "Description": "Presentation times and stimuli details for 'Control block 2' stimuli. \nNote: image_name references control_description in stimulus/templates"
+    },
+    "Control block 1_presentations": {
+        "Description": "Presentation times and stimuli details for 'Control block 1' stimuli. \nNote: image_name references control_description in stimulus/templates"
+    }
+}
