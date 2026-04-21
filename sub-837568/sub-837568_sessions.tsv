@@ -1,11 +1,12 @@
-session_id
-ses-multiplane-ophys_837568_2026-02-13_14-38-22
-ses-multiplane-ophys_837568_2026-02-16_11-39-57
-ses-multiplane-ophys_837568_2026-02-17_11-50-35
-ses-multiplane-ophys_837568_2026-02-19_13-22-26
-ses-multiplane-ophys_837568_2026-02-20_10-35-23
-ses-multiplane-ophys_837568_2026-02-23_12-57-43
-ses-multiplane-ophys_837568_2026-02-24_11-35-15
-ses-multiplane-ophys_837568_2026-02-26_14-00-52
-ses-multiplane-ophys_837568_2026-03-05_14-14-51
-ses-multiplane-ophys_837568_2026-03-06_13-39-00
+session_id	original_session_id
+ses-multiplane+ophys+837568+2026+02+13+14+38+22	ses-multiplane-ophys_837568_2026-02-13_14-38-22
+ses-multiplane+ophys+837568+2026+02+16+11+39+57	ses-multiplane-ophys_837568_2026-02-16_11-39-57
+ses-multiplane+ophys+837568+2026+02+17+11+50+35	ses-multiplane-ophys_837568_2026-02-17_11-50-35
+ses-multiplane+ophys+837568+2026+02+19+13+22+26	ses-multiplane-ophys_837568_2026-02-19_13-22-26
+ses-multiplane+ophys+837568+2026+02+20+10+35+23	ses-multiplane-ophys_837568_2026-02-20_10-35-23
+ses-multiplane+ophys+837568+2026+02+23+12+57+43	ses-multiplane-ophys_837568_2026-02-23_12-57-43
+ses-multiplane+ophys+837568+2026+02+24+11+35+15	ses-multiplane-ophys_837568_2026-02-24_11-35-15
+ses-multiplane+ophys+837568+2026+02+26+14+00+52	ses-multiplane-ophys_837568_2026-02-26_14-00-52
+ses-multiplane+ophys+837568+2026+03+05+14+14+51	ses-multiplane-ophys_837568_2026-03-05_14-14-51
+ses-multiplane+ophys+837568+2026+03+06+13+39+00	ses-multiplane-ophys_837568_2026-03-06_13-39-00
+ses-multiplane+ophys+837568+2026+03+09+11+43+41	ses-multiplane-ophys_837568_2026-03-09_11-43-41

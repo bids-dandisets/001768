@@ -1,5 +1,5 @@
-session_id
-ses-multiplane-ophys_845342_2026-03-25_14-20-33
-ses-multiplane-ophys_845342_2026-03-26_13-33-27
-ses-multiplane-ophys_845342_2026-03-27_14-07-55
-ses-multiplane-ophys_845342_2026-03-30_09-58-06
+session_id	original_session_id
+ses-multiplane+ophys+845342+2026+03+25+14+20+33	ses-multiplane-ophys_845342_2026-03-25_14-20-33
+ses-multiplane+ophys+845342+2026+03+26+13+33+27	ses-multiplane-ophys_845342_2026-03-26_13-33-27
+ses-multiplane+ophys+845342+2026+03+27+14+07+55	ses-multiplane-ophys_845342_2026-03-27_14-07-55
+ses-multiplane+ophys+845342+2026+03+30+09+58+06	ses-multiplane-ophys_845342_2026-03-30_09-58-06

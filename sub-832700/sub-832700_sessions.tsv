@@ -1,8 +1,9 @@
-session_id
-ses-multiplane-ophys_832700_2026-01-24_12-06-12
-ses-multiplane-ophys_832700_2026-01-29_11-18-09
-ses-multiplane-ophys_832700_2026-01-31_11-38-29
-ses-multiplane-ophys_832700_2026-02-06_12-31-00
-ses-multiplane-ophys_832700_2026-02-07_11-18-06
-ses-multiplane-ophys_832700_2026-02-12_11-45-55
-ses-multiplane-ophys_832700_2026-02-13_11-45-59
+session_id	original_session_id
+ses-multiplane+ophys+832700+2026+01+24+12+06+12	ses-multiplane-ophys_832700_2026-01-24_12-06-12
+ses-multiplane+ophys+832700+2026+01+29+11+18+09	ses-multiplane-ophys_832700_2026-01-29_11-18-09
+ses-multiplane+ophys+832700+2026+01+30+09+32+25	ses-multiplane-ophys_832700_2026-01-30_09-32-25
+ses-multiplane+ophys+832700+2026+01+31+11+38+29	ses-multiplane-ophys_832700_2026-01-31_11-38-29
+ses-multiplane+ophys+832700+2026+02+06+12+31+00	ses-multiplane-ophys_832700_2026-02-06_12-31-00
+ses-multiplane+ophys+832700+2026+02+07+11+18+06	ses-multiplane-ophys_832700_2026-02-07_11-18-06
+ses-multiplane+ophys+832700+2026+02+12+11+45+55	ses-multiplane-ophys_832700_2026-02-12_11-45-55
+ses-multiplane+ophys+832700+2026+02+13+11+45+59	ses-multiplane-ophys_832700_2026-02-13_11-45-59
