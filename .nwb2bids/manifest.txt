@@ -11,6 +11,9 @@ sub-832700/ses-multiplane-ophys_832700_2026-01-24_12-06-12/ecephys/sub-832700_se
 sub-832700/ses-multiplane-ophys_832700_2026-01-29_11-18-09/ecephys/sub-832700_ses-multiplane-ophys_832700_2026-01-29_11-18-09_events.tsv
 sub-832700/ses-multiplane-ophys_832700_2026-01-29_11-18-09/ecephys/sub-832700_ses-multiplane-ophys_832700_2026-01-29_11-18-09_events.json
 sub-832700/ses-multiplane-ophys_832700_2026-01-29_11-18-09/ecephys/sub-832700_ses-multiplane-ophys_832700_2026-01-29_11-18-09_ecephys.nwb
+sub-832700/ses-multiplane-ophys_832700_2026-01-30_09-32-25/ecephys/sub-832700_ses-multiplane-ophys_832700_2026-01-30_09-32-25_events.tsv
+sub-832700/ses-multiplane-ophys_832700_2026-01-30_09-32-25/ecephys/sub-832700_ses-multiplane-ophys_832700_2026-01-30_09-32-25_events.json
+sub-832700/ses-multiplane-ophys_832700_2026-01-30_09-32-25/ecephys/sub-832700_ses-multiplane-ophys_832700_2026-01-30_09-32-25_ecephys.nwb
 sub-832700/ses-multiplane-ophys_832700_2026-01-31_11-38-29/ecephys/sub-832700_ses-multiplane-ophys_832700_2026-01-31_11-38-29_events.tsv
 sub-832700/ses-multiplane-ophys_832700_2026-01-31_11-38-29/ecephys/sub-832700_ses-multiplane-ophys_832700_2026-01-31_11-38-29_events.json
 sub-832700/ses-multiplane-ophys_832700_2026-01-31_11-38-29/ecephys/sub-832700_ses-multiplane-ophys_832700_2026-01-31_11-38-29_ecephys.nwb
@@ -58,6 +61,9 @@ sub-837568/ses-multiplane-ophys_837568_2026-03-05_14-14-51/ecephys/sub-837568_se
 sub-837568/ses-multiplane-ophys_837568_2026-03-06_13-39-00/ecephys/sub-837568_ses-multiplane-ophys_837568_2026-03-06_13-39-00_events.tsv
 sub-837568/ses-multiplane-ophys_837568_2026-03-06_13-39-00/ecephys/sub-837568_ses-multiplane-ophys_837568_2026-03-06_13-39-00_events.json
 sub-837568/ses-multiplane-ophys_837568_2026-03-06_13-39-00/ecephys/sub-837568_ses-multiplane-ophys_837568_2026-03-06_13-39-00_ecephys.nwb
+sub-837568/ses-multiplane-ophys_837568_2026-03-09_11-43-41/ecephys/sub-837568_ses-multiplane-ophys_837568_2026-03-09_11-43-41_events.tsv
+sub-837568/ses-multiplane-ophys_837568_2026-03-09_11-43-41/ecephys/sub-837568_ses-multiplane-ophys_837568_2026-03-09_11-43-41_events.json
+sub-837568/ses-multiplane-ophys_837568_2026-03-09_11-43-41/ecephys/sub-837568_ses-multiplane-ophys_837568_2026-03-09_11-43-41_ecephys.nwb
 sub-839909/sub-839909_sessions.tsv
 sub-839909/sub-839909_sessions.json
 sub-839909/ses-multiplane-ophys_839909_2026-02-20_12-53-27/ecephys/sub-839909_ses-multiplane-ophys_839909_2026-02-20_12-53-27_events.tsv
